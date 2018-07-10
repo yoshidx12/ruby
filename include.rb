@@ -1,0 +1,1 @@
+puts "WALSでプログラミング学習".include?("WALS")
